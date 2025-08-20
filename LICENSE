@@ -1,6 +1,14 @@
-MIT License
+# A Note on Third-Party Data
 
-Copyright (c) 2025 theelderemo
+The content of this repository includes data extracted from Suno's platform, specifically within the `/data` directory (e.g., `co_existing_styles.json` and `default_styles.json`). This data is the property of Suno, Inc. and is included here for educational and research purposes only.
+
+The MIT License below applies to the original work in this repository, including the structure, documentation, analysis, and any original code or tools created by the repository authors. It does not apply to the Suno-owned data.
+
+---
+
+## MIT License
+
+Copyright (c) 2025 **theelderemo**
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
