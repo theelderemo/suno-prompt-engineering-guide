@@ -40,6 +40,7 @@ This repository is structured to take you from theory to practice:
 
 * **Core Principles**: Understand the fundamental mechanics of the AI.
 * **Prompting Strategies**: Learn actionable techniques for crafting better prompts.
+* **Artist Style Guides**: Use proven prompts to replicate famous artists' sounds.
 * **Community Insights**: Real-world observations and timing strategies from experienced users.
 * **Troubleshooting**: Why certain prompts fail predictably and how to fix them.
 * **Data & Tools**: Explore the raw data yourself.
@@ -161,6 +162,21 @@ Tags like **grunge**, **math rock**, or **swing** have low connection counts and
 
 ---
 
+## Artist Style Replication
+
+Want to sound like your favorite artists? Check out our comprehensive collection of artist-specific prompts that replicate the musical style of famous musicians across all genres and eras.
+
+**Featured Artists Include:**
+- **Classic Rock**: The Beatles, Led Zeppelin, Pink Floyd, Queen, Rolling Stones
+- **Pop Icons**: Michael Jackson, Madonna, Whitney Houston, Taylor Swift, Beyoncé
+- **Hip-Hop**: Eminem, Drake, Kanye West, Jay-Z
+- **Rock & Metal**: U2, Metallica, Red Hot Chili Peppers, AC/DC
+- **And many more spanning jazz, country, R&B, and international artists**
+
+These plug-and-play prompts are designed for Suno v4.5+ and focus on capturing the complete musical essence of each artist.
+
+---
+
 ## Community Insights & Pro Tips
 
 ### Timing Strategy for Better Quality
@@ -196,6 +212,7 @@ Feel free to use this data to build your own analysis tools or visualizations.
 
 * **[Core Concepts](docs/Core_Concepts.md)**: Deep dive into how Suno's AI works
 * **[Prompting Strategies](docs/Prompting_Strategies.md)**: Actionable techniques for better prompts
+* **[Artist Prompt Guide](docs/Disckordias-Artist-Prompt-Guide.md)**: Comprehensive collection of artist-specific prompts
 * **[Community Observations](docs/Community-Observations.md)**: Empirical insights from experienced users
 * **[Troubleshooting](docs/Troubleshooting_and_Predictable_Failures.md)**: Why prompts fail and how to fix them
 
