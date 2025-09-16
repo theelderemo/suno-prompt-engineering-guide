@@ -4,6 +4,8 @@ An unofficial guide and community resource for mastering prompt engineering for 
 
 The insights here are derived from an analysis of Suno's style co-occurrence data and extensive community observations from thousands of users who have generated hundreds of thousands of tracks.
 
+**Self plug, shameful? maybe. check out my lyric creation tool [VRSA](https.vrsa.app)**
+
 ---
 
 ## Key Concepts: The TL;DR
